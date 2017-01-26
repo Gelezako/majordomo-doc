@@ -1,0 +1,4 @@
+# MajorDoMo project manual
+
+...
+

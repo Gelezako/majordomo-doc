@@ -2,5 +2,5 @@
 Documentation for MajorDoMo automation platform
 
 Languages:
-[English](./en/README.md)
-[Русский](./ru/README.md)
+[English](./en/index.md)
+[Русский](./ru/index.md)
